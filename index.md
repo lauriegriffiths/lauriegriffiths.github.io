@@ -5,14 +5,17 @@
 * The Japan University of Economics - Suzuki Scholarship in Japanese
 
 ### Current Work
-* Part-time lecturer at Kyushu University
-* Part-time teacher at Fukuoka Communication Center
+* Community Manager at the Engineer Cafe
+* Freelance Developer
 
 ### Past Work
+* Software Engineer at Team Aibod, Fukuoka
 * Software Engineer at Welmo, Fukuoka
 * Software Engineer at Qurate, Fukuoka
 * Translator for AsianBeat, Fukuoka
 
-### Interests
-* Natural language processing and its uses in language education
-* Audio interfaces as seen in virtual assistants such as Alexa
+### Other Interests
+* Natural language processing
+* Audio interfaces 
+* Running
+* Piano
