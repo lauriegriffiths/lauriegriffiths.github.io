@@ -17,7 +17,7 @@ A site to create cryptographic hashes of jokes to prove authorship. Created for 
 A program to automatically edit videos based on scripts and audio content using forced alignment.
 
 ### Correct App
-A grammar correction app that uses NLP to find common English mistakes made by native speakers of Japanese.  
+A grammar correction app that uses NLP to find common English mistakes made by native speakers of Japanese. Poster [Presentationn for the research(PDF)](files/Correct_Poster.pdf)
 
 ### [Not My Audience](https://notmyaudience.com/)
 A live interactive presentation where audience members vote on their own devices to influence a comedy show.
