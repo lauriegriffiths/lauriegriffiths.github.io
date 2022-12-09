@@ -2,7 +2,11 @@
 published: true
 layout: splash
 title: Charts with Japanese Labels
-tags: python, data science, pandas, Japanese
+tags: 
+- python
+- data science
+- pandas 
+- Japanese
 ---
 
 # Charts with Japanese Labels with Pandas and Matplotlib
@@ -45,7 +49,7 @@ plt.show()
 
 ![Font list with Japanese text](/images/FontListMojibake.png)
 
-By selecting one of the fonts from the list you can make the chart render correctly.
+By selecting one of the fonts from the list and passing it as the `fontfamily` property you can make the chart render correctly.
 
 ```python
 import matplotlib.pyplot as plt
