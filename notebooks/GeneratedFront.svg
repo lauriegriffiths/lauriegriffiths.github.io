@@ -1,0 +1,2252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 1099.43 798.83" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style>
+   .cls-1 {
+        font-family: KozGoPr6N-Regular-83pv-RKSJ-H, 'Kozuka Gothic Pr6N';
+      }
+
+      .cls-1, .cls-2 {
+        font-size: 12px;
+      }
+
+      .cls-2 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+  </style>
+ </defs>
+ <g id="Outline">
+  <rect class="cls-3" height="797.83" width="1098.43" x=".5" y=".5"/>
+ </g>
+ <g id="Lettering">
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(66.64 116.6)">
+     <tspan x="0" y="0">
+      あ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(117.15 93.98) rotate(-60)">
+     <tspan x="0" y="0">
+      い
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(120.48 37.28) rotate(-120)">
+     <tspan x="0" y="0">
+      う
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(75.32 6.85) rotate(-180)">
+     <tspan x="0" y="0">
+      え
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(23.74 30.14) rotate(120)">
+     <tspan x="0" y="0">
+      お
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(22.15 86.63) rotate(60)">
+     <tspan x="0" y="0">
+      か
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(65.17 66.08)">
+    <tspan x="0" y="0">
+     き
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(66.64 239.34)">
+     <tspan x="0" y="0">
+      あ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(117.15 216.72) rotate(-60)">
+     <tspan x="0" y="0">
+      く
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(120.48 160.03) rotate(-120)">
+     <tspan x="0" y="0">
+      け
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(75.32 129.6) rotate(-180)">
+     <tspan x="0" y="0">
+      こ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(23.74 152.88) rotate(120)">
+     <tspan x="0" y="0">
+      さ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(22.15 209.38) rotate(60)">
+     <tspan x="0" y="0">
+      し
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(65.17 188.82)">
+    <tspan x="0" y="0">
+     す
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(66.64 362.09)">
+     <tspan x="0" y="0">
+      あ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(117.15 339.47) rotate(-60)">
+     <tspan x="0" y="0">
+      せ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(120.48 282.77) rotate(-120)">
+     <tspan x="0" y="0">
+      そ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(75.32 252.34) rotate(-180)">
+     <tspan x="0" y="0">
+      た
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(23.74 275.62) rotate(120)">
+     <tspan x="0" y="0">
+      ち
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(22.15 332.12) rotate(60)">
+     <tspan x="0" y="0">
+      つ
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(65.17 311.57)">
+    <tspan x="0" y="0">
+     て
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(66.64 484.83)">
+     <tspan x="0" y="0">
+      あ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(117.15 462.21) rotate(-60)">
+     <tspan x="0" y="0">
+      と
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(120.48 405.51) rotate(-120)">
+     <tspan x="0" y="0">
+      な
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(75.32 375.08) rotate(-180)">
+     <tspan x="0" y="0">
+      に
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(23.74 398.37) rotate(120)">
+     <tspan x="0" y="0">
+      ぬ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(22.15 454.86) rotate(60)">
+     <tspan x="0" y="0">
+      ね
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(65.17 434.31)">
+    <tspan x="0" y="0">
+     の
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(66.64 607.57)">
+     <tspan x="0" y="0">
+      あ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(117.15 584.95) rotate(-60)">
+     <tspan x="0" y="0">
+      は
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(120.48 528.26) rotate(-120)">
+     <tspan x="0" y="0">
+      ひ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(75.32 497.83) rotate(-180)">
+     <tspan x="0" y="0">
+      ふ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(23.74 521.11) rotate(120)">
+     <tspan x="0" y="0">
+      へ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(22.15 577.61) rotate(60)">
+     <tspan x="0" y="0">
+      ほ
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(65.17 557.05)">
+    <tspan x="0" y="0">
+     ま
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(66.64 730.32)">
+     <tspan x="0" y="0">
+      あ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(117.15 707.7) rotate(-60)">
+     <tspan x="0" y="0">
+      み
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(120.48 651) rotate(-120)">
+     <tspan x="0" y="0">
+      む
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(75.32 620.57) rotate(-180)">
+     <tspan x="0" y="0">
+      め
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(23.74 643.86) rotate(120)">
+     <tspan x="0" y="0">
+      も
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(22.15 700.35) rotate(60)">
+     <tspan x="0" y="0">
+      や
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(65.17 679.8)">
+    <tspan x="0" y="0">
+     ゆ
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(172.94 177.97)">
+     <tspan x="0" y="0">
+      あ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(223.45 155.35) rotate(-60)">
+     <tspan x="0" y="0">
+      よ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(226.78 98.66) rotate(-120)">
+     <tspan x="0" y="0">
+      ら
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(181.62 68.22) rotate(-180)">
+     <tspan x="0" y="0">
+      り
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(130.04 91.51) rotate(120)">
+     <tspan x="0" y="0">
+      る
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(128.45 148) rotate(60)">
+     <tspan x="0" y="0">
+      れ
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(171.47 127.45)">
+    <tspan x="0" y="0">
+     ろ
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(172.94 300.71)">
+     <tspan x="0" y="0">
+      い
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(223.45 278.1) rotate(-60)">
+     <tspan x="0" y="0">
+      く
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(226.78 221.4) rotate(-120)">
+     <tspan x="0" y="0">
+      せ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(181.62 190.97) rotate(-180)">
+     <tspan x="0" y="0">
+      と
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(130.04 214.25) rotate(120)">
+     <tspan x="0" y="0">
+      は
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(128.45 270.75) rotate(60)">
+     <tspan x="0" y="0">
+      み
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(171.47 250.2)">
+    <tspan x="0" y="0">
+     よ
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(172.94 423.46)">
+     <tspan x="0" y="0">
+      い
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(223.45 400.84) rotate(-60)">
+     <tspan x="0" y="0">
+      け
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(226.78 344.14) rotate(-120)">
+     <tspan x="0" y="0">
+      そ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(181.62 313.71) rotate(-180)">
+     <tspan x="0" y="0">
+      な
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(130.04 337) rotate(120)">
+     <tspan x="0" y="0">
+      ひ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(128.45 393.49) rotate(60)">
+     <tspan x="0" y="0">
+      む
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(171.47 372.94)">
+    <tspan x="0" y="0">
+     ら
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(172.94 546.2)">
+     <tspan x="0" y="0">
+      い
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(223.45 523.58) rotate(-60)">
+     <tspan x="0" y="0">
+      こ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(226.78 466.89) rotate(-120)">
+     <tspan x="0" y="0">
+      た
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(181.62 436.46) rotate(-180)">
+     <tspan x="0" y="0">
+      に
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(130.04 459.74) rotate(120)">
+     <tspan x="0" y="0">
+      ふ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(128.45 516.24) rotate(60)">
+     <tspan x="0" y="0">
+      め
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(171.47 495.68)">
+    <tspan x="0" y="0">
+     り
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(172.94 668.95)">
+     <tspan x="0" y="0">
+      い
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(223.45 646.33) rotate(-60)">
+     <tspan x="0" y="0">
+      さ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(226.78 589.63) rotate(-120)">
+     <tspan x="0" y="0">
+      ち
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(181.62 559.2) rotate(-180)">
+     <tspan x="0" y="0">
+      ぬ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(130.04 582.48) rotate(120)">
+     <tspan x="0" y="0">
+      へ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(128.45 638.98) rotate(60)">
+     <tspan x="0" y="0">
+      も
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(171.47 618.43)">
+    <tspan x="0" y="0">
+     る
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(172.94 791.69)">
+     <tspan x="0" y="0">
+      い
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(223.45 769.07) rotate(-60)">
+     <tspan x="0" y="0">
+      し
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(226.78 712.38) rotate(-120)">
+     <tspan x="0" y="0">
+      つ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(181.62 681.94) rotate(-180)">
+     <tspan x="0" y="0">
+      ね
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(130.04 705.23) rotate(120)">
+     <tspan x="0" y="0">
+      ほ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(128.45 761.72) rotate(60)">
+     <tspan x="0" y="0">
+      や
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(171.47 741.17)">
+    <tspan x="0" y="0">
+     れ
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(279.24 116.6)">
+     <tspan x="0" y="0">
+      い
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(329.74 93.98) rotate(-60)">
+     <tspan x="0" y="0">
+      す
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(333.08 37.28) rotate(-120)">
+     <tspan x="0" y="0">
+      て
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(287.92 6.85) rotate(-180)">
+     <tspan x="0" y="0">
+      の
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(236.34 30.14) rotate(120)">
+     <tspan x="0" y="0">
+      ま
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(234.75 86.63) rotate(60)">
+     <tspan x="0" y="0">
+      ゆ
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(277.77 66.08)">
+    <tspan x="0" y="0">
+     ろ
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(279.24 239.34)">
+     <tspan x="0" y="0">
+      う
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(329.74 216.72) rotate(-60)">
+     <tspan x="0" y="0">
+      く
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(333.08 160.03) rotate(-120)">
+     <tspan x="0" y="0">
+      そ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(287.92 129.6) rotate(-180)">
+     <tspan x="0" y="0">
+      に
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(236.34 152.88) rotate(120)">
+     <tspan x="0" y="0">
+      へ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(234.75 209.38) rotate(60)">
+     <tspan x="0" y="0">
+      や
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(277.77 188.82)">
+    <tspan x="0" y="0">
+     ろ
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(279.24 362.09)">
+     <tspan x="0" y="0">
+      う
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(329.74 339.47) rotate(-60)">
+     <tspan x="0" y="0">
+      け
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(333.08 282.77) rotate(-120)">
+     <tspan x="0" y="0">
+      た
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(287.92 252.34) rotate(-180)">
+     <tspan x="0" y="0">
+      ぬ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(236.34 275.62) rotate(120)">
+     <tspan x="0" y="0">
+      ほ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(234.75 332.12) rotate(60)">
+     <tspan x="0" y="0">
+      ゆ
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(277.77 311.57)">
+    <tspan x="0" y="0">
+     よ
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(279.24 484.83)">
+     <tspan x="0" y="0">
+      う
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(329.74 462.21) rotate(-60)">
+     <tspan x="0" y="0">
+      こ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(333.08 405.51) rotate(-120)">
+     <tspan x="0" y="0">
+      ち
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(287.92 375.08) rotate(-180)">
+     <tspan x="0" y="0">
+      ね
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(236.34 398.37) rotate(120)">
+     <tspan x="0" y="0">
+      ま
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(234.75 454.86) rotate(60)">
+     <tspan x="0" y="0">
+      み
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(277.77 434.31)">
+    <tspan x="0" y="0">
+     ら
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(279.24 607.57)">
+     <tspan x="0" y="0">
+      う
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(329.74 584.95) rotate(-60)">
+     <tspan x="0" y="0">
+      さ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(333.08 528.26) rotate(-120)">
+     <tspan x="0" y="0">
+      つ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(287.92 497.83) rotate(-180)">
+     <tspan x="0" y="0">
+      の
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(236.34 521.11) rotate(120)">
+     <tspan x="0" y="0">
+      は
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(234.75 577.61) rotate(60)">
+     <tspan x="0" y="0">
+      む
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(277.77 557.05)">
+    <tspan x="0" y="0">
+     り
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(279.24 730.32)">
+     <tspan x="0" y="0">
+      う
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(329.74 707.7) rotate(-60)">
+     <tspan x="0" y="0">
+      し
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(333.08 651) rotate(-120)">
+     <tspan x="0" y="0">
+      て
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(287.92 620.57) rotate(-180)">
+     <tspan x="0" y="0">
+      と
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(236.34 643.86) rotate(120)">
+     <tspan x="0" y="0">
+      ひ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(234.75 700.35) rotate(60)">
+     <tspan x="0" y="0">
+      め
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(277.77 679.8)">
+    <tspan x="0" y="0">
+     る
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(385.54 177.97)">
+     <tspan x="0" y="0">
+      う
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(436.04 155.35) rotate(-60)">
+     <tspan x="0" y="0">
+      す
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(439.38 98.66) rotate(-120)">
+     <tspan x="0" y="0">
+      せ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(394.22 68.22) rotate(-180)">
+     <tspan x="0" y="0">
+      な
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(342.64 91.51) rotate(120)">
+     <tspan x="0" y="0">
+      ふ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(341.04 148) rotate(60)">
+     <tspan x="0" y="0">
+      も
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(384.07 127.45)">
+    <tspan x="0" y="0">
+     れ
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(385.54 300.71)">
+     <tspan x="0" y="0">
+      え
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(436.04 278.1) rotate(-60)">
+     <tspan x="0" y="0">
+      く
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(439.38 221.4) rotate(-120)">
+     <tspan x="0" y="0">
+      た
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(394.22 190.97) rotate(-180)">
+     <tspan x="0" y="0">
+      ね
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(342.64 214.25) rotate(120)">
+     <tspan x="0" y="0">
+      は
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(341.04 270.75) rotate(60)">
+     <tspan x="0" y="0">
+      め
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(384.07 250.2)">
+    <tspan x="0" y="0">
+     れ
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(385.54 423.46)">
+     <tspan x="0" y="0">
+      え
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(436.04 400.84) rotate(-60)">
+     <tspan x="0" y="0">
+      け
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(439.38 344.14) rotate(-120)">
+     <tspan x="0" y="0">
+      ち
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(394.22 313.71) rotate(-180)">
+     <tspan x="0" y="0">
+      の
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(342.64 337) rotate(120)">
+     <tspan x="0" y="0">
+      ひ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(341.04 393.49) rotate(60)">
+     <tspan x="0" y="0">
+      も
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(384.07 372.94)">
+    <tspan x="0" y="0">
+     ろ
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(385.54 546.2)">
+     <tspan x="0" y="0">
+      え
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(436.04 523.58) rotate(-60)">
+     <tspan x="0" y="0">
+      こ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(439.38 466.89) rotate(-120)">
+     <tspan x="0" y="0">
+      つ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(394.22 436.46) rotate(-180)">
+     <tspan x="0" y="0">
+      と
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(342.64 459.74) rotate(120)">
+     <tspan x="0" y="0">
+      ふ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(341.04 516.24) rotate(60)">
+     <tspan x="0" y="0">
+      や
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(384.07 495.68)">
+    <tspan x="0" y="0">
+     よ
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(385.54 668.95)">
+     <tspan x="0" y="0">
+      え
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(436.04 646.33) rotate(-60)">
+     <tspan x="0" y="0">
+      さ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(439.38 589.63) rotate(-120)">
+     <tspan x="0" y="0">
+      て
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(394.22 559.2) rotate(-180)">
+     <tspan x="0" y="0">
+      な
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(342.64 582.48) rotate(120)">
+     <tspan x="0" y="0">
+      へ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(341.04 638.98) rotate(60)">
+     <tspan x="0" y="0">
+      ゆ
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(384.07 618.43)">
+    <tspan x="0" y="0">
+     ら
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(385.54 791.69)">
+     <tspan x="0" y="0">
+      え
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(436.04 769.07) rotate(-60)">
+     <tspan x="0" y="0">
+      し
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(439.38 712.38) rotate(-120)">
+     <tspan x="0" y="0">
+      せ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(394.22 681.94) rotate(-180)">
+     <tspan x="0" y="0">
+      に
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(342.64 705.23) rotate(120)">
+     <tspan x="0" y="0">
+      ほ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(341.04 761.72) rotate(60)">
+     <tspan x="0" y="0">
+      み
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(384.07 741.17)">
+    <tspan x="0" y="0">
+     り
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(491.84 116.6)">
+     <tspan x="0" y="0">
+      え
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(542.34 93.98) rotate(-60)">
+     <tspan x="0" y="0">
+      す
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(545.68 37.28) rotate(-120)">
+     <tspan x="0" y="0">
+      そ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(500.52 6.85) rotate(-180)">
+     <tspan x="0" y="0">
+      ぬ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(448.94 30.14) rotate(120)">
+     <tspan x="0" y="0">
+      ま
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(447.34 86.63) rotate(60)">
+     <tspan x="0" y="0">
+      む
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(490.37 66.08)">
+    <tspan x="0" y="0">
+     る
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(491.84 239.34)">
+     <tspan x="0" y="0">
+      お
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(542.34 216.72) rotate(-60)">
+     <tspan x="0" y="0">
+      く
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(545.68 160.03) rotate(-120)">
+     <tspan x="0" y="0">
+      ち
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(500.52 129.6) rotate(-180)">
+     <tspan x="0" y="0">
+      と
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(448.94 152.88) rotate(120)">
+     <tspan x="0" y="0">
+      へ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(447.34 209.38) rotate(60)">
+     <tspan x="0" y="0">
+      み
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(490.37 188.82)">
+    <tspan x="0" y="0">
+     る
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(491.84 362.09)">
+     <tspan x="0" y="0">
+      お
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(542.34 339.47) rotate(-60)">
+     <tspan x="0" y="0">
+      け
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(545.68 282.77) rotate(-120)">
+     <tspan x="0" y="0">
+      つ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(500.52 252.34) rotate(-180)">
+     <tspan x="0" y="0">
+      な
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(448.94 275.62) rotate(120)">
+     <tspan x="0" y="0">
+      ほ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(447.34 332.12) rotate(60)">
+     <tspan x="0" y="0">
+      む
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(490.37 311.57)">
+    <tspan x="0" y="0">
+     れ
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(491.84 484.83)">
+     <tspan x="0" y="0">
+      お
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(542.34 462.21) rotate(-60)">
+     <tspan x="0" y="0">
+      こ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(545.68 405.51) rotate(-120)">
+     <tspan x="0" y="0">
+      て
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(500.52 375.08) rotate(-180)">
+     <tspan x="0" y="0">
+      に
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(448.94 398.37) rotate(120)">
+     <tspan x="0" y="0">
+      ま
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(447.34 454.86) rotate(60)">
+     <tspan x="0" y="0">
+      め
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(490.37 434.31)">
+    <tspan x="0" y="0">
+     ろ
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(491.84 607.57)">
+     <tspan x="0" y="0">
+      お
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(542.34 584.95) rotate(-60)">
+     <tspan x="0" y="0">
+      さ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(545.68 528.26) rotate(-120)">
+     <tspan x="0" y="0">
+      せ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(500.52 497.83) rotate(-180)">
+     <tspan x="0" y="0">
+      ぬ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(448.94 521.11) rotate(120)">
+     <tspan x="0" y="0">
+      は
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(447.34 577.61) rotate(60)">
+     <tspan x="0" y="0">
+      も
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(490.37 557.05)">
+    <tspan x="0" y="0">
+     よ
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(491.84 730.32)">
+     <tspan x="0" y="0">
+      お
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(542.34 707.7) rotate(-60)">
+     <tspan x="0" y="0">
+      し
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(545.68 651) rotate(-120)">
+     <tspan x="0" y="0">
+      そ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(500.52 620.57) rotate(-180)">
+     <tspan x="0" y="0">
+      ね
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(448.94 643.86) rotate(120)">
+     <tspan x="0" y="0">
+      ひ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(447.34 700.35) rotate(60)">
+     <tspan x="0" y="0">
+      や
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(490.37 679.8)">
+    <tspan x="0" y="0">
+     ら
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(598.13 177.97)">
+     <tspan x="0" y="0">
+      お
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(648.64 155.35) rotate(-60)">
+     <tspan x="0" y="0">
+      す
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(651.98 98.66) rotate(-120)">
+     <tspan x="0" y="0">
+      た
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(606.82 68.22) rotate(-180)">
+     <tspan x="0" y="0">
+      の
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(555.24 91.51) rotate(120)">
+     <tspan x="0" y="0">
+      ふ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(553.64 148) rotate(60)">
+     <tspan x="0" y="0">
+      ゆ
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(596.67 127.45)">
+    <tspan x="0" y="0">
+     り
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(598.13 300.71)">
+     <tspan x="0" y="0">
+      か
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(648.64 278.1) rotate(-60)">
+     <tspan x="0" y="0">
+      く
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(651.98 221.4) rotate(-120)">
+     <tspan x="0" y="0">
+      つ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(606.82 190.97) rotate(-180)">
+     <tspan x="0" y="0">
+      に
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(555.24 214.25) rotate(120)">
+     <tspan x="0" y="0">
+      は
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(553.64 270.75) rotate(60)">
+     <tspan x="0" y="0">
+      や
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(596.67 250.2)">
+    <tspan x="0" y="0">
+     り
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(598.13 423.46)">
+     <tspan x="0" y="0">
+      か
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(648.64 400.84) rotate(-60)">
+     <tspan x="0" y="0">
+      け
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(651.98 344.14) rotate(-120)">
+     <tspan x="0" y="0">
+      て
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(606.82 313.71) rotate(-180)">
+     <tspan x="0" y="0">
+      ぬ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(555.24 337) rotate(120)">
+     <tspan x="0" y="0">
+      ひ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(553.64 393.49) rotate(60)">
+     <tspan x="0" y="0">
+      ゆ
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(596.67 372.94)">
+    <tspan x="0" y="0">
+     る
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(598.13 546.2)">
+     <tspan x="0" y="0">
+      か
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(648.64 523.58) rotate(-60)">
+     <tspan x="0" y="0">
+      こ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(651.98 466.89) rotate(-120)">
+     <tspan x="0" y="0">
+      せ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(606.82 436.46) rotate(-180)">
+     <tspan x="0" y="0">
+      ね
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(555.24 459.74) rotate(120)">
+     <tspan x="0" y="0">
+      ふ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(553.64 516.24) rotate(60)">
+     <tspan x="0" y="0">
+      み
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(596.67 495.68)">
+    <tspan x="0" y="0">
+     れ
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(598.13 668.95)">
+     <tspan x="0" y="0">
+      か
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(648.64 646.33) rotate(-60)">
+     <tspan x="0" y="0">
+      さ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(651.98 589.63) rotate(-120)">
+     <tspan x="0" y="0">
+      そ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(606.82 559.2) rotate(-180)">
+     <tspan x="0" y="0">
+      の
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(555.24 582.48) rotate(120)">
+     <tspan x="0" y="0">
+      へ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(553.64 638.98) rotate(60)">
+     <tspan x="0" y="0">
+      む
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(596.67 618.43)">
+    <tspan x="0" y="0">
+     ろ
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(598.13 791.69)">
+     <tspan x="0" y="0">
+      か
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(648.64 769.07) rotate(-60)">
+     <tspan x="0" y="0">
+      し
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(651.98 712.38) rotate(-120)">
+     <tspan x="0" y="0">
+      た
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(606.82 681.94) rotate(-180)">
+     <tspan x="0" y="0">
+      と
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(555.24 705.23) rotate(120)">
+     <tspan x="0" y="0">
+      ほ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(553.64 761.72) rotate(60)">
+     <tspan x="0" y="0">
+      め
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(596.67 741.17)">
+    <tspan x="0" y="0">
+     よ
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(704.43 116.6)">
+     <tspan x="0" y="0">
+      か
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(754.94 93.98) rotate(-60)">
+     <tspan x="0" y="0">
+      す
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(758.28 37.28) rotate(-120)">
+     <tspan x="0" y="0">
+      ち
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(713.11 6.85) rotate(-180)">
+     <tspan x="0" y="0">
+      な
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(661.54 30.14) rotate(120)">
+     <tspan x="0" y="0">
+      ま
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(659.94 86.63) rotate(60)">
+     <tspan x="0" y="0">
+      も
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(702.97 66.08)">
+    <tspan x="0" y="0">
+     ら
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(704.43 239.34)">
+     <tspan x="0" y="0">
+      き
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(754.94 216.72) rotate(-60)">
+     <tspan x="0" y="0">
+      く
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(758.28 160.03) rotate(-120)">
+     <tspan x="0" y="0">
+      て
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(713.11 129.6) rotate(-180)">
+     <tspan x="0" y="0">
+      ね
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(661.54 152.88) rotate(120)">
+     <tspan x="0" y="0">
+      へ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(659.94 209.38) rotate(60)">
+     <tspan x="0" y="0">
+      め
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(702.97 188.82)">
+    <tspan x="0" y="0">
+     ら
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(704.43 362.09)">
+     <tspan x="0" y="0">
+      き
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(754.94 339.47) rotate(-60)">
+     <tspan x="0" y="0">
+      け
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(758.28 282.77) rotate(-120)">
+     <tspan x="0" y="0">
+      せ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(713.11 252.34) rotate(-180)">
+     <tspan x="0" y="0">
+      の
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(661.54 275.62) rotate(120)">
+     <tspan x="0" y="0">
+      ほ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(659.94 332.12) rotate(60)">
+     <tspan x="0" y="0">
+      も
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(702.97 311.57)">
+    <tspan x="0" y="0">
+     り
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(704.43 484.83)">
+     <tspan x="0" y="0">
+      き
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(754.94 462.21) rotate(-60)">
+     <tspan x="0" y="0">
+      こ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(758.28 405.51) rotate(-120)">
+     <tspan x="0" y="0">
+      そ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(713.11 375.08) rotate(-180)">
+     <tspan x="0" y="0">
+      と
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(661.54 398.37) rotate(120)">
+     <tspan x="0" y="0">
+      ま
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(659.94 454.86) rotate(60)">
+     <tspan x="0" y="0">
+      や
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(702.97 434.31)">
+    <tspan x="0" y="0">
+     る
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(704.43 607.57)">
+     <tspan x="0" y="0">
+      き
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(754.94 584.95) rotate(-60)">
+     <tspan x="0" y="0">
+      さ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(758.28 528.26) rotate(-120)">
+     <tspan x="0" y="0">
+      た
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(713.11 497.83) rotate(-180)">
+     <tspan x="0" y="0">
+      な
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(661.54 521.11) rotate(120)">
+     <tspan x="0" y="0">
+      は
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(659.94 577.61) rotate(60)">
+     <tspan x="0" y="0">
+      ゆ
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(702.97 557.05)">
+    <tspan x="0" y="0">
+     れ
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(704.43 730.32)">
+     <tspan x="0" y="0">
+      き
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(754.94 707.7) rotate(-60)">
+     <tspan x="0" y="0">
+      し
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(758.28 651) rotate(-120)">
+     <tspan x="0" y="0">
+      ち
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(713.11 620.57) rotate(-180)">
+     <tspan x="0" y="0">
+      に
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(661.54 643.86) rotate(120)">
+     <tspan x="0" y="0">
+      ひ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(659.94 700.35) rotate(60)">
+     <tspan x="0" y="0">
+      み
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(702.97 679.8)">
+    <tspan x="0" y="0">
+     ろ
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(810.73 177.97)">
+     <tspan x="0" y="0">
+      き
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(861.24 155.35) rotate(-60)">
+     <tspan x="0" y="0">
+      す
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(864.58 98.66) rotate(-120)">
+     <tspan x="0" y="0">
+      つ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(819.41 68.22) rotate(-180)">
+     <tspan x="0" y="0">
+      ぬ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(767.84 91.51) rotate(120)">
+     <tspan x="0" y="0">
+      ふ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(766.24 148) rotate(60)">
+     <tspan x="0" y="0">
+      む
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(809.27 127.45)">
+    <tspan x="0" y="0">
+     よ
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(810.73 300.71)">
+     <tspan x="0" y="0">
+      あ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(861.24 278.1) rotate(-60)">
+     <tspan x="0" y="0">
+      い
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(864.58 221.4) rotate(-120)">
+     <tspan x="0" y="0">
+      う
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(819.41 190.97) rotate(-180)">
+     <tspan x="0" y="0">
+      え
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(767.84 214.25) rotate(120)">
+     <tspan x="0" y="0">
+      お
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(766.24 270.75) rotate(60)">
+     <tspan x="0" y="0">
+      か
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(809.27 250.2)">
+    <tspan x="0" y="0">
+     き
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(810.73 423.46)">
+     <tspan x="0" y="0">
+      あ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(861.24 400.84) rotate(-60)">
+     <tspan x="0" y="0">
+      く
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(864.58 344.14) rotate(-120)">
+     <tspan x="0" y="0">
+      け
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(819.41 313.71) rotate(-180)">
+     <tspan x="0" y="0">
+      こ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(767.84 337) rotate(120)">
+     <tspan x="0" y="0">
+      さ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(766.24 393.49) rotate(60)">
+     <tspan x="0" y="0">
+      し
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(809.27 372.94)">
+    <tspan x="0" y="0">
+     す
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(810.73 546.2)">
+     <tspan x="0" y="0">
+      あ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(861.24 523.58) rotate(-60)">
+     <tspan x="0" y="0">
+      せ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(864.58 466.89) rotate(-120)">
+     <tspan x="0" y="0">
+      そ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(819.41 436.46) rotate(-180)">
+     <tspan x="0" y="0">
+      た
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(767.84 459.74) rotate(120)">
+     <tspan x="0" y="0">
+      ち
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(766.24 516.24) rotate(60)">
+     <tspan x="0" y="0">
+      つ
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(809.27 495.68)">
+    <tspan x="0" y="0">
+     て
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(810.73 668.95)">
+     <tspan x="0" y="0">
+      あ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(861.24 646.33) rotate(-60)">
+     <tspan x="0" y="0">
+      と
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(864.58 589.63) rotate(-120)">
+     <tspan x="0" y="0">
+      な
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(819.41 559.2) rotate(-180)">
+     <tspan x="0" y="0">
+      に
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(767.84 582.48) rotate(120)">
+     <tspan x="0" y="0">
+      ぬ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(766.24 638.98) rotate(60)">
+     <tspan x="0" y="0">
+      ね
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(809.27 618.43)">
+    <tspan x="0" y="0">
+     の
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(810.73 791.69)">
+     <tspan x="0" y="0">
+      あ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(861.24 769.07) rotate(-60)">
+     <tspan x="0" y="0">
+      は
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(864.58 712.38) rotate(-120)">
+     <tspan x="0" y="0">
+      ひ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(819.41 681.94) rotate(-180)">
+     <tspan x="0" y="0">
+      ふ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(767.84 705.23) rotate(120)">
+     <tspan x="0" y="0">
+      へ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(766.24 761.72) rotate(60)">
+     <tspan x="0" y="0">
+      ほ
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(809.27 741.17)">
+    <tspan x="0" y="0">
+     ま
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(917.03 116.6)">
+     <tspan x="0" y="0">
+      あ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(967.54 93.98) rotate(-60)">
+     <tspan x="0" y="0">
+      み
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(970.88 37.28) rotate(-120)">
+     <tspan x="0" y="0">
+      む
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(925.71 6.85) rotate(-180)">
+     <tspan x="0" y="0">
+      め
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(874.14 30.14) rotate(120)">
+     <tspan x="0" y="0">
+      も
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(872.54 86.63) rotate(60)">
+     <tspan x="0" y="0">
+      や
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(915.57 66.08)">
+    <tspan x="0" y="0">
+     ゆ
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(917.03 239.34)">
+     <tspan x="0" y="0">
+      あ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(967.54 216.72) rotate(-60)">
+     <tspan x="0" y="0">
+      よ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(970.88 160.03) rotate(-120)">
+     <tspan x="0" y="0">
+      ら
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(925.71 129.6) rotate(-180)">
+     <tspan x="0" y="0">
+      り
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(874.14 152.88) rotate(120)">
+     <tspan x="0" y="0">
+      る
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(872.54 209.38) rotate(60)">
+     <tspan x="0" y="0">
+      れ
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(915.57 188.82)">
+    <tspan x="0" y="0">
+     ろ
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(917.03 362.09)">
+     <tspan x="0" y="0">
+      い
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(967.54 339.47) rotate(-60)">
+     <tspan x="0" y="0">
+      く
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(970.88 282.77) rotate(-120)">
+     <tspan x="0" y="0">
+      せ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(925.71 252.34) rotate(-180)">
+     <tspan x="0" y="0">
+      と
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(874.14 275.62) rotate(120)">
+     <tspan x="0" y="0">
+      は
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(872.54 332.12) rotate(60)">
+     <tspan x="0" y="0">
+      み
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(915.57 311.57)">
+    <tspan x="0" y="0">
+     よ
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(917.03 484.83)">
+     <tspan x="0" y="0">
+      い
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(967.54 462.21) rotate(-60)">
+     <tspan x="0" y="0">
+      け
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(970.88 405.51) rotate(-120)">
+     <tspan x="0" y="0">
+      そ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(925.71 375.08) rotate(-180)">
+     <tspan x="0" y="0">
+      な
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(874.14 398.37) rotate(120)">
+     <tspan x="0" y="0">
+      ひ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(872.54 454.86) rotate(60)">
+     <tspan x="0" y="0">
+      む
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(915.57 434.31)">
+    <tspan x="0" y="0">
+     ら
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(917.03 607.57)">
+     <tspan x="0" y="0">
+      い
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(967.54 584.95) rotate(-60)">
+     <tspan x="0" y="0">
+      こ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(970.88 528.26) rotate(-120)">
+     <tspan x="0" y="0">
+      た
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(925.71 497.83) rotate(-180)">
+     <tspan x="0" y="0">
+      に
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(874.14 521.11) rotate(120)">
+     <tspan x="0" y="0">
+      ふ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(872.54 577.61) rotate(60)">
+     <tspan x="0" y="0">
+      め
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(915.57 557.05)">
+    <tspan x="0" y="0">
+     り
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(917.03 730.32)">
+     <tspan x="0" y="0">
+      い
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(967.54 707.7) rotate(-60)">
+     <tspan x="0" y="0">
+      さ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(970.88 651) rotate(-120)">
+     <tspan x="0" y="0">
+      ち
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(925.71 620.57) rotate(-180)">
+     <tspan x="0" y="0">
+      ぬ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(874.14 643.86) rotate(120)">
+     <tspan x="0" y="0">
+      へ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(872.54 700.35) rotate(60)">
+     <tspan x="0" y="0">
+      も
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(915.57 679.8)">
+    <tspan x="0" y="0">
+     る
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(1023.33 177.97)">
+     <tspan x="0" y="0">
+      い
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(1073.84 155.35) rotate(-60)">
+     <tspan x="0" y="0">
+      し
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(1077.18 98.66) rotate(-120)">
+     <tspan x="0" y="0">
+      つ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(1032.01 68.22) rotate(-180)">
+     <tspan x="0" y="0">
+      ね
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(980.43 91.51) rotate(120)">
+     <tspan x="0" y="0">
+      ほ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(978.84 148) rotate(60)">
+     <tspan x="0" y="0">
+      や
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(1021.87 127.45)">
+    <tspan x="0" y="0">
+     れ
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(1023.33 300.71)">
+     <tspan x="0" y="0">
+      い
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(1073.84 278.1) rotate(-60)">
+     <tspan x="0" y="0">
+      す
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(1077.18 221.4) rotate(-120)">
+     <tspan x="0" y="0">
+      て
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(1032.01 190.97) rotate(-180)">
+     <tspan x="0" y="0">
+      の
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(980.43 214.25) rotate(120)">
+     <tspan x="0" y="0">
+      ま
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(978.84 270.75) rotate(60)">
+     <tspan x="0" y="0">
+      ゆ
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(1021.87 250.2)">
+    <tspan x="0" y="0">
+     ろ
+    </tspan>
+   </text>
+  </g>
+  <g>
+   <g>
+    <text class="cls-1" transform="translate(1023.33 423.46)">
+     <tspan x="0" y="0">
+      う
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(1073.84 400.84) rotate(-60)">
+     <tspan x="0" y="0">
+      く
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(1077.18 344.14) rotate(-120)">
+     <tspan x="0" y="0">
+      そ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(1032.01 313.71) rotate(-180)">
+     <tspan x="0" y="0">
+      に
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(980.43 337) rotate(120)">
+     <tspan x="0" y="0">
+      へ
+     </tspan>
+    </text>
+    <text class="cls-1" transform="translate(978.84 393.49) rotate(60)">
+     <tspan x="0" y="0">
+      や
+     </tspan>
+    </text>
+   </g>
+   <text class="cls-2" transform="translate(1021.87 372.94)">
+    <tspan x="0" y="0">
+     ろ
+    </tspan>
+   </text>
+  </g>
+ </g>
+</svg>
