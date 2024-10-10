@@ -9,7 +9,7 @@
 <h1>Hello</h1>
 
 {#each writings as [path, module]}
-	<a href={base + '/articles/' + module.metadata.slug + '/'}>{module.metadata.title}</a>
+	<a href={base + '/articles/' + module.metadata.slug}>{module.metadata.title}</a>
 {/each}
 
 {#each writings as [path, module]}
