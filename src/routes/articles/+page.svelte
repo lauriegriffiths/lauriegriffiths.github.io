@@ -7,6 +7,7 @@
 </script>
 
 <h1>Hello</h1>
+<enhanced:img src="/static/boat.png" alt="A boat" />
 
 {#each writings as [path, module]}
 	<a href={base + '/articles/' + module.metadata.slug}>{module.metadata.title}</a>
