@@ -1,2 +1,5 @@
 <h1>Laurie's Projects</h1>
-<p>Projects, articles information related to what I do.</p>
+
+<p>
+	All my projects, hardware, code, events, workshops, slides and other errata from over the years.
+</p>
