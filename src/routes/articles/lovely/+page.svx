@@ -1,0 +1,6 @@
+---
+title: Lovely
+slug: lovely
+---
+
+Great new article
