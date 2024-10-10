@@ -4,7 +4,7 @@
 
 <nav>
 	<ul>
-		<li><a href="{base}/" `>Home</a></li>
+		<li><a href="{base}/">Home</a></li>
 		<li><a href="{base}/articles">Articles</a></li>
 	</ul>
 </nav>
