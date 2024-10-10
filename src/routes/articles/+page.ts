@@ -1,7 +1,7 @@
 import type { PageLoad } from './$types';
-import type { SvelteComponent } from 'svelte';
+import type { Component } from 'svelte';
 export const load: PageLoad = ({ params }) => {
-	const glob_import = import.meta.glob<{ default: SvelteComponent; metadata: Record<string, any> }>(
+	const glob_import = import.meta.glob<{ default: Component; metadata: Record<string, any> }>(
 		'/src/routes/**/*.svx',
 		{
 			eager: true
