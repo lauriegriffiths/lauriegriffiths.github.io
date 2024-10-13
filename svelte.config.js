@@ -1,8 +1,7 @@
 import adapter from '@sveltejs/adapter-static';
 import { vitePreprocess } from '@sveltejs/vite-plugin-svelte';
 import { mdsvex } from 'mdsvex';
-import { enhancedImages } from 'mdsvex-enhanced-images'
-
+import { enhancedImages } from 'mdsvex-enhanced-images';
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
@@ -15,8 +14,7 @@ const config = {
 			layout: {
 				_: './src/layout.svelte'
 			},
-			remarkPlugins:[enhancedImages]
-		
+			remarkPlugins: [enhancedImages]
 		})
 	],
 

@@ -5,7 +5,6 @@ export const load: PageLoad = async ({ params }) => {
 
 	const article = await import(`../${slug}.svx`);
 
-
 	return {
 		article: article
 	};

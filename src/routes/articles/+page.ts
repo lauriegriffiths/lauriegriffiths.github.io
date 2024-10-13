@@ -1,7 +1,7 @@
 import type { PageLoad } from './$types';
 import type { Component } from 'svelte';
 export const load: PageLoad = async ({ params }) => {
-	const articles = await fetchArticles()
+	const articles = await fetchArticles();
 	return {
 		articles
 	};
@@ -17,8 +17,8 @@ const fetchArticles = async () => {
 	const iterablePostFiles = Object.entries(allPostFiles);
 
 	const allPosts = await Promise.all(
-		iterablePostFiles.map(async ([path,other]) => {
-			const {metadata} = other;
+		iterablePostFiles.map(async ([path, other]) => {
+			const { metadata } = other;
 			const postPath = path.slice(11, -4);
 			const slug = postPath.split('/').pop();
 
