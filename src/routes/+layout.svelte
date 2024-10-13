@@ -8,7 +8,7 @@
 	<nav>
 		<a href="{base}/">Home</a>
 		<a href="{base}/articles">Articles</a>
-		<a href="{base}/projects">Projects</a>
+		<!-- <a href="{base}/projects">Projects</a> -->
 	</nav>
 </header>
 
