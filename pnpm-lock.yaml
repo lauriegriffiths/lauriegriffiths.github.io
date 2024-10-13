@@ -7,6 +7,10 @@ settings:
 importers:
 
   .:
+    dependencies:
+      simpledotcss:
+        specifier: ^2.3.2
+        version: 2.3.2
     devDependencies:
       '@playwright/test':
         specifier: ^1.28.1
@@ -1230,6 +1234,9 @@ packages:
 
   simple-swizzle@0.2.2:
     resolution: {integrity: sha512-JA//kQgZtbuY83m+xT+tXJkmJncGMTFT+C+g2h2R9uxkYIrE2yy9sgmcLhCnw57/WSD+Eh3J97FPEDFnbXnDUg==}
+
+  simpledotcss@2.3.2:
+    resolution: {integrity: sha512-/LoZHX66g+DDj1HzinshbSujFKQ+VP3t9cE1+aTtKCQCXJMNWKiVRZlpXMXCamnGquQOwgeMZsAtvdZd5hdpdQ==}
 
   sirv@2.0.4:
     resolution: {integrity: sha512-94Bdh3cC2PKrbgSOUqTiGPWVZeSiXfKOVZNJniWoqrWrRkB1CJzBU3NEbiTsPcYy1lDsANA/THzS+9WBiy5nfQ==}
@@ -2522,6 +2529,8 @@ snapshots:
   simple-swizzle@0.2.2:
     dependencies:
       is-arrayish: 0.3.2
+
+  simpledotcss@2.3.2: {}
 
   sirv@2.0.4:
     dependencies:

@@ -1,22 +1,20 @@
 <script lang="ts">
 	import { base } from '$app/paths';
+	//import simple css
+	import 'simpledotcss';
 </script>
 
-<nav>
-	<ul>
-		<li><a href="{base}/">Home</a></li>
-		<li><a href="{base}/articles">Articles</a></li>
-	</ul>
-</nav>
+<header>
+	<nav>
+		<a href="{base}/">Home</a>
+		<a href="{base}/articles">Articles</a>
+		<a href="{base}/projects">Projects</a>
+	</nav>
+</header>
 
 <main>
 	<slot></slot>
 </main>
 
 <style>
-	nav ul {
-		list-style: none;
-		display: flex;
-		gap: 1rem;
-	}
 </style>
