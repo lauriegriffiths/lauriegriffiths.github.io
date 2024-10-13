@@ -1,9 +1,9 @@
-<script>
-import FileDownload from '$lib/FileDownload.svelte'
-</script>
 ---
 title: A simple 2x4 Bench 
 ---
+<script>
+import FileDownload from '$lib/FileDownload.svelte'
+</script>
 
 
 At a recent barbecue we realised there weren't enough places to sit.  Lured by the promise of eating slightly burnt sausages outdoors we set about making one.
@@ -22,7 +22,7 @@ After returning home I decided to make a quick version of the bench using Fusion
 
 You can download the 3D data here:
 
-<FileDownload filename={"bench.stl"}/>
+<FileDownload filename={"3d-models/bench.stl"}/>
 
 Sometimes having no plan makes the production process quicker and more flexible. 
 

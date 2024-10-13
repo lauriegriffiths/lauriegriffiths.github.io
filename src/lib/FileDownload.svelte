@@ -3,4 +3,4 @@
 	export let filename;
 </script>
 
-<a href={base + '/static/' + filename}>{filename}</a>
+<a href={'/' + base + filename}>{filename}</a>
