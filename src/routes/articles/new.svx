@@ -1,6 +1,5 @@
 ---
 title: My lovely article
-slug: new
 ---
 
 Some amazing content.

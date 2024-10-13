@@ -1,6 +1,5 @@
 ---
 title: Set Sail!
-slug: set-sail
 ---
 
 
