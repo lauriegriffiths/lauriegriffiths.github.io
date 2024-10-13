@@ -1,0 +1,24 @@
+---
+title: A simple 2x4 Bench 
+---
+
+
+At a recent barbecue we realised there weren't enough places to sit.  Lured by the promise of eating slightly burnt sausages outdoors we set about making one.
+
+A quick trip to the nearby "home centre" (ホームセンター, this would be called a garden centre in the UK but in Japan most people don't have one) and we were on our way.  Five 6-foot-long 2x4s and a few screw should be enough.
+
+We didn't make an formal plan, and halfway through construction we realised the square bench idea would be far too top heavy.  A brilliant idea to angle legs combined with a little trigonometry and we were finished.
+
+
+
+![a bench](/images/bench.png)
+
+After returning home I decided to make a quick version of the bench using Fusion 360.
+
+![A bench made in 3D cad software](/images/bench-cad.png)
+
+You can download the 3D data here:
+
+[STL Bench Data](/3d-models/bench.stl)
+
+Sometimes having no plan makes the production process quicker and more flexible. 
