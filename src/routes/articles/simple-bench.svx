@@ -11,11 +11,11 @@ We didn't make an formal plan, and halfway through construction we realised the 
 
 
 
-![a bench](/images/bench.png)
+![a bench](bench.png)
 
 After returning home I decided to make a quick version of the bench using Fusion 360.
 
-![A bench made in 3D cad software](/images/bench-cad.png)
+![A bench made in 3D cad software](bench-cad.png)
 
 You can download the 3D data here:
 

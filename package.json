@@ -39,6 +39,8 @@
 	"type": "module",
 	"packageManager": "pnpm@9.11.0+sha256.1c0e33f70e5df9eede84a357bdfa0b1f9dba6e58194628d48a1055756f553754",
 	"dependencies": {
-		"simpledotcss": "^2.3.2"
+		"mdsvex-enhanced-images": "^0.2.2",
+		"simpledotcss": "^2.3.2",
+		"unist-util-visit": "^5.0.0"
 	}
 }
