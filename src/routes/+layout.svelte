@@ -16,5 +16,15 @@
 	<slot></slot>
 </main>
 
-<style>
+<style global>
+	header > nav {
+		padding: 1rem 0 0 0;
+		margin: 0;
+	}
+	header {
+		padding: 0 0.5rem 0.5rem 0.5rem;
+	}
+	main {
+		padding-top: 1rem;
+	}
 </style>

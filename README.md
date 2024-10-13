@@ -11,3 +11,15 @@ deployed to github pages
 - evergreen article
 
 ## Article ideas
+
+- buying the land in Itoshima
+- Organ things
+- Svelte stuff
+- Accessibility on the web
+- Ink Script
+- Pub Quiz questions
+- Home assistant
+- Refactoring
+- Slides/slidev/lightning talk
+- Bilingual events
+- Pocketbase

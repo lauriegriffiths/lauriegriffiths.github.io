@@ -2,8 +2,9 @@ import type { PageLoad } from './$types';
 import type { Component } from 'svelte';
 export const load: PageLoad = async ({ params }) => {
 	const articles = await fetchArticles();
+	const filteredArticles = articles.filter((article) => article.meta.published);
 	return {
-		articles
+		articles: filteredArticles
 	};
 };
 

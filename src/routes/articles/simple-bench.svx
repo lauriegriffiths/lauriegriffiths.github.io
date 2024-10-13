@@ -1,5 +1,6 @@
 ---
-title: A simple 2x4 Bench 
+title: A Simple 2x4 Bench 
+published: true
 ---
 <script>
 import FileDownload from '$lib/FileDownload.svelte'
