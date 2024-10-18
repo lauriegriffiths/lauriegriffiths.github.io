@@ -8,5 +8,6 @@
 <ul>
 	<li>
 		<a href="https://lauriegriffiths.github.io/receipt-generator/">Receipt Generator</a>
+		<a href="https://lauriegriffiths.github.io/word-cloud-generator/"> Word Cloud Generator</a>
 	</li>
 </ul>
