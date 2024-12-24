@@ -1,0 +1,16 @@
+---
+title: Hack Fukuoka 2024-10-18
+published: true
+---
+
+Notes:
+
+[rewindgames.ca](rewindgames.ca)
+
+[Tanuki Sunset](https://store.steampowered.com/app/1251460/Tanuki_Sunset/)
+
+[PWM duty cycle](https://osteele.github.io/pwm-explorer/)
+
+[Playdate retro console with a crank](https://play.date/)
+
+[StarBit Games](https://starbit-games.com/)
