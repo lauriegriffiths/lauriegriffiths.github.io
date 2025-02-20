@@ -1,29 +1,23 @@
 ---
-title: A Simple 2x4 Bench 
+title: Published article
 published: true
 ---
 <script>
 import FileDownload from '$lib/FileDownload.svelte'
 </script>
 
+An example of an image tag
+`![a bench](image.png)`
 
-At a recent barbecue we realised there weren't enough places to sit.  Lured by the promise of eating slightly burnt sausages outdoors we set about making one.
-
-A quick trip to the nearby "home centre" (ホームセンター, this would be called a garden centre in the UK but in Japan most people don't have one) and we were on our way.  Five 6-foot-long 2x4s and a few screw should be enough.
-
-We didn't make an formal plan, and halfway through construction we realised the square bench idea would be far too top heavy.  A brilliant idea to angle legs combined with a little trigonometry and we were finished.
-
+File downloads like this: 
+`<FileDownload filename={"model.stl"}/>`
 
 
-![a bench](bench.png)
+Code bocks: 
 
-After returning home I decided to make a quick version of the bench using Fusion 360.
-
-![A bench made in 3D cad software](bench-cad.png)
-
-You can download the 3D data here:
-
-<FileDownload filename={"3d-models/bench.stl"}/>
-
-Sometimes having no plan makes the production process quicker and more flexible. 
-
+```python
+def fib(n):
+    if n <= 1:
+        return n
+    return fib(n-1) + fib(n-2)
+```

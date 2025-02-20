@@ -7,8 +7,8 @@
 </script>
 
 <h1>Articles</h1>
-<!-- <enhanced:img src="/static/boat.png" alt="A boat" /> -->
 
+<p>This page is set up as a list of the markdown folders in this folder</p>
 <ul>
 	{#each articles as { meta, slug }}
 		<li>
@@ -16,7 +16,3 @@
 		</li>
 	{/each}
 </ul>
-
-<!-- {#each writings as [path, module]}
-	<svelte:component this={module.default} />
-{/each} -->

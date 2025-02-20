@@ -1,7 +1,6 @@
 ---
-title: How to Write Fun Quiz Questions
+title: Unpublished article
 published: false
 ---
 
-Many people enjoy a good pub quiz. Some people might even try writing their own quiz.  But how can you write questions that are actually fun to answer.  I've collected some of my best tips for writing questions that get your quiz teams enjoying the night.
-
+This article won't be built into the finished site
