@@ -1,5 +1,3 @@
-<h1>Laurie's Projects</h1>
+<h1>Static Site Template</h1>
 
-<p>
-	All my projects, hardware, code, events, workshops, slides and other errata from over the years.
-</p>
+<p>A sveltekit based static site template that is simple, flexible and deploys to github pages</p>
