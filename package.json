@@ -21,24 +21,24 @@
 		"@sveltejs/kit": "^2.19.1",
 		"@sveltejs/vite-plugin-svelte": "^5.0.3",
 		"@types/eslint": "^9.6.1",
-		"eslint": "^9.22.0",
 		"eslint-config-prettier": "^10.1.1",
 		"eslint-plugin-svelte": "^3.1.0",
+		"eslint": "^9.22.0",
 		"globals": "^16.0.0",
+		"mdsvex-enhanced-images": "^0.3.3",
 		"mdsvex": "^0.12.3",
-		"prettier": "^3.5.3",
 		"prettier-plugin-svelte": "^3.3.3",
-		"svelte": "^5.23.0",
+		"prettier": "^3.5.3",
 		"svelte-check": "^4.1.5",
-		"typescript": "^5.8.2",
+		"svelte": "^5.23.0",
 		"typescript-eslint": "^8.26.1",
+		"typescript": "^5.8.2",
 		"vite": "^6.2.2",
 		"vitest": "^3.0.8"
 	},
 	"type": "module",
 	"packageManager": "pnpm@9.11.0+sha256.1c0e33f70e5df9eede84a357bdfa0b1f9dba6e58194628d48a1055756f553754",
 	"dependencies": {
-		"mdsvex-enhanced-images": "^0.3.3",
 		"simpledotcss": "^2.3.4"
 	}
 }
