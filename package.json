@@ -15,7 +15,7 @@
 		"test:unit": "vitest"
 	},
 	"devDependencies": {
-		"@playwright/test": "^1.50.1",
+		"@playwright/test": "^1.51.0",
 		"@sveltejs/adapter-auto": "^4.0.0",
 		"@sveltejs/adapter-static": "^3.0.8",
 		"@sveltejs/enhanced-img": "^0.4.4",
@@ -34,7 +34,7 @@
 		"typescript": "^5.8.2",
 		"typescript-eslint": "^8.26.1",
 		"vite": "^6.2.2",
-		"vitest": "^3.0.6"
+		"vitest": "^3.0.8"
 	},
 	"type": "module",
 	"packageManager": "pnpm@9.11.0+sha256.1c0e33f70e5df9eede84a357bdfa0b1f9dba6e58194628d48a1055756f553754",
