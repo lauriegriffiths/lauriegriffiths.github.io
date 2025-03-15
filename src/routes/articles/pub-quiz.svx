@@ -3,4 +3,4 @@ title: Unpublished article
 published: false
 ---
 
-This article won't be built into the finished site
+Ideas about pub quiz stuff, quiz buzzers etc
