@@ -10,7 +10,7 @@
 
 <p>This page is set up as a list of the markdown folders in this folder</p>
 <ul>
-	{#each articles as { meta, slug }}
+	{#each articles as { meta, slug } (slug)}
 		<li>
 			<a href={base + '/articles/' + slug}>{meta.title}</a>
 		</li>

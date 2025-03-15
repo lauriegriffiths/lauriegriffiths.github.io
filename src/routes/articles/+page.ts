@@ -1,6 +1,7 @@
 import type { PageLoad } from './$types';
 import type { Component } from 'svelte';
-export const load: PageLoad = async ({ params }) => {
+import type { ArticleMetadata } from '$lib/types';
+export const load: PageLoad = async () => {
 	const articles = await fetchArticles();
 	const filteredArticles = articles.filter((article) => article.meta.published);
 	return {
@@ -9,7 +10,7 @@ export const load: PageLoad = async ({ params }) => {
 };
 
 const fetchArticles = async () => {
-	const allPostFiles = import.meta.glob<{ default: Component; metadata: Record<string, any> }>(
+	const allPostFiles = import.meta.glob<{ default: Component; metadata: ArticleMetadata }>(
 		'/src/routes/**/*.svx',
 		{
 			eager: true

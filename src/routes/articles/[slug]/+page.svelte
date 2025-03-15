@@ -1,8 +1,5 @@
 <script lang="ts">
-	import type { PageData } from './$types';
-
-	import { base } from '$app/paths';
-	export let data: PageData;
+	export let data;
 	const { article } = data;
 </script>
 
