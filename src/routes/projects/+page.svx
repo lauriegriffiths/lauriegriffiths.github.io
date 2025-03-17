@@ -2,8 +2,14 @@
 
 ### The Connected Organ
 
+A pipe organ design and built using makerspace tools. The organ is connected to the internet for the public to experience and play.
+
+Play the organ at [connected-organ.com](https://connected-organ.com)
+
 ### History Mysteries
 
-### Not My Audience
+An escape room in a box with a educational history theme. \
 
-###
+[History Mysteries Hompage](https://historymysteries.club/)
+
+[Latest Kickstarter](https://www.kickstarter.com/projects/historymysteries/the-roman-rivalry)

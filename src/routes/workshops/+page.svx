@@ -12,3 +12,5 @@ A selection of past seminar and workshop topics
 - Introduction to Microcontrollers with Micropython
 - Interactive Fiction with Inkle
 - Creating Language Research Experiments with PsychoPy
+
+If you are interested in boooking a workshop or seminar, please [contact me](/contact)
