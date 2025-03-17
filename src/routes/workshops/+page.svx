@@ -1,0 +1,14 @@
+# Workshops
+
+A selection of past seminar and workshop topics
+
+- Testing and Refactoring Legacy Code
+- Modern web development with Svelte
+- Fusion 360 for 3D printing
+- Web Accessibility
+- Web-based VR Experiences with A-Frame
+- Python programming for absolute beginners
+- English for Software Engineering Teams
+- Introduction to Microcontrollers with Micropython
+- Interactive Fiction with Inkle
+- Creating Language Research Experiments with PsychoPy
