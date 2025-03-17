@@ -11,11 +11,12 @@ export const load: PageLoad = async () => {
 
 const fetchArticles = async () => {
 	const allPostFiles = import.meta.glob<{ default: Component; metadata: ArticleMetadata }>(
-		'/src/routes/**/*.svx',
+		'/src/routes/articles/**/*.svx',
 		{
 			eager: true
 		}
 	);
+
 	const iterablePostFiles = Object.entries(allPostFiles);
 
 	const allPosts = await Promise.all(
