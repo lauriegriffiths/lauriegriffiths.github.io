@@ -1,6 +1,9 @@
 {
-	"packages": ["nodejs@20"],
-	"env": {
-		"DEVBOX_COREPACK_ENABLED": "true"
-	}
+  "packages": [
+    "nodejs@20",
+    "imagemagick@latest"
+  ],
+  "env": {
+    "DEVBOX_COREPACK_ENABLED": "true"
+  }
 }
