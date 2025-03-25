@@ -1,14 +1,41 @@
 <script lang="ts">
-	import { base } from '$app/paths';
-	import 'simpledotcss';
+	import { base, resolveRoute } from '$app/paths';
+	// import 'simpledotcss';
+	import '@exampledev/new.css';
+
+	import type { LayoutProps } from './$types';
+
+	let { data, children }: LayoutProps = $props();
+
+	const links = ['projects', 'workshops', 'contact'];
+
+	const capitalize = (str: string) => str[0].toUpperCase() + str.slice(1);
+
+	const routeMatchesLink = (route: string | null, link: string) => {
+		if (route === null) return false;
+		//get the first part of the route
+		// routes look like /workshops/other/route
+		// we only want to check the first part
+		const routeParts = route.split('/');
+		const routePart = routeParts[1];
+		return routePart === link;
+	};
 </script>
 
 <header>
+	<div class="home">
+		<a href="{base}/">Laurie Griffiths</a>
+	</div>
 	<nav>
-		<a href="{base}/">Home</a>
-		<a href="{base}/workshops">Workshops</a>
-		<a href="{base}/projects">Projects</a>
-		<a href="{base}/contact">Contact</a>
+		{#each links as link}
+			{#if routeMatchesLink(data.route, link)}
+				<p>
+					{capitalize(link)}
+				</p>
+			{:else}
+				<a href="{base}/{link}">{capitalize(link)}</a>
+			{/if}
+		{/each}
 	</nav>
 </header>
 
@@ -17,14 +44,26 @@
 </main>
 
 <style global>
-	header > nav {
-		padding: 1rem 0 0 0;
-		margin: 0;
+	:global(img) {
+		max-width: 100%;
+		height: auto;
+		border-radius: var(--standard-border-radius);
+	}
+	.home {
+		min-width: fit-content;
 	}
 	header {
-		padding: 0 0.5rem 0.5rem 0.5rem;
+		display: flex;
+		justify-content: space-between;
+		gap: 2rem;
 	}
-	main {
-		padding-top: 1rem;
+	header > nav {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+		gap: 1rem;
+	}
+	header {
+		padding-inline: 2rem;
 	}
 </style>

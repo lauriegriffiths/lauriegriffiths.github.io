@@ -1,6 +1,9 @@
 ---
 title: A Simple 2x4 Bench
 published: true
+tags:
+  - builder
+  - land
 ---
 
 <script>
