@@ -24,7 +24,7 @@
 
 <header>
 	<div class="home">
-		<a href="{base}/">Laurie Griffiths</a>
+		<a href="{base}/">Home</a>
 	</div>
 	<nav>
 		{#each links as link}
