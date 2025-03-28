@@ -40,7 +40,7 @@
 </header>
 
 <main>
-	<slot></slot>
+	{@render children()}
 </main>
 
 <style global>
