@@ -1,0 +1,9 @@
+<script>
+import FileDownload from '$lib/FileDownload.svelte'
+</script>
+
+Here's a 3D printed rolling pin so you can cut out lots of hexagonal cookies in a single pass.
+
+![Hexagon Rolling Pin](HexagonRollingPin.png)
+
+<FileDownload filename={"3d-models/HexagonRollingPin.3mf"}/>
